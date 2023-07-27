@@ -41,7 +41,7 @@ int main() {
 
 | **Платформа**|**Ссылка**                           | **Отвечу за**| 
 |--------------|-------------------------------------|--------------|
-| Потча        |[Ссылка](https://https://mail.ru)    | 24 часа      |
+| Потча        |[Ссылка](https://https://google.com)    | 24 часа      |
 |  Linkedin    |[Ссылка](https://ru.linkedin.com)    | 3 часа       |
 |  WhatsApp    |[Ссылка](https://web.whatsapp.com)   | 30 минут     | 
 | Telegram     |[Ссылка](https://web.telegram.org/a/)| 5 минут      |
