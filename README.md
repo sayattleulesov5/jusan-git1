@@ -18,7 +18,7 @@ bash ./script.sh
 На Java
 
 ```
-class Main {
+`class Main {
       public static void main(String[] args) {
            System.out.println("777");
       }
@@ -27,7 +27,7 @@ class Main {
 
 На C++
 ```
-#include <iostream>
+`#include <iostream>
 using namespace std;
 int main() {
     cout<< 777 <<endl;
