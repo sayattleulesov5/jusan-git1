@@ -1,1 +1,1 @@
-Sayat Tileulessov
+echo Sayat Tileulessov
